@@ -8,6 +8,7 @@
     "node-schedule": "^1.2.5"
   },
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
