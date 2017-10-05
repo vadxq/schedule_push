@@ -51,6 +51,7 @@ const mails = (data) => {
     }
     
     if (data.courseTime === config.anotherMail.keyword) {
+      mailOptions.subject = config.anotherMail.subject
       mailOptions.text = config.anotherMail.text,
       mailOptions.html = config.anotherMail.html
     }

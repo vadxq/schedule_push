@@ -7,6 +7,7 @@ exports.detailMail = {
 
 exports.anotherMail = {
   keyword: 'wanan',
+  subject: '某某呀，某某呀',
   text: '勺薠呀,晚安',
   html: '<b>勺薠呀，快去睡哟～</b><br/>不然不给你讲故事了！<br/><br/>---专为你定制的晚安提醒<br/>---来自你帅气的显林叔'
 }
