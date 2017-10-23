@@ -1,0 +1,24 @@
+{
+  "name": "schedule_push",
+  "version": "1.0.0",
+  "description": "schedule pushes",
+  "main": "index.js",
+  "dependencies": {
+    "nodemailer": "^4.1.1",
+    "node-schedule": "^1.2.5"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vadxq/schedule_push.git"
+  },
+  "author": "vadxq <dongxianlin@vadxq.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/vadxq/schedule_push/issues"
+  },
+  "homepage": "https://github.com/vadxq/schedule_push#readme"
+}
